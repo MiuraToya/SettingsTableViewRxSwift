@@ -1,2 +1,2 @@
 # SettingsTableViewRxSwift
-RxSwift研究読本Samole
+RxSwift研究読本Sample
